@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AlexaScott33/hacker-hunt-server/issues"
   },
-  "homepage": "https://github.com/AlexaScott33/hacker-hunt-server#readme"
+  "homepage": "https://github.com/AlexaScott33/hacker-hunt-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
 }
