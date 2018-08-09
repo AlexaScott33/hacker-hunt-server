@@ -1,0 +1,19 @@
+{
+  "name": "hacker-hunt-server",
+  "version": "1.0.0",
+  "description": "Server for Hacker Hunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexaScott33/hacker-hunt-server.git"
+  },
+  "author": "Alexa Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexaScott33/hacker-hunt-server/issues"
+  },
+  "homepage": "https://github.com/AlexaScott33/hacker-hunt-server#readme"
+}
